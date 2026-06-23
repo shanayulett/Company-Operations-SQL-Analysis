@@ -15,3 +15,6 @@ I wanted to analyze which states hold the company's largest physical footprint b
 Missouri(Mo): This state is represented as the primary operational hub which has 148 desk (Maximum)
 California (CA): California is mid-tier from Virginia with 89 desks (Mid-tier)
 New York (NY): This state is the lowesr metric point with a total of 23 desks (Minimum)
+
+<img width="1365" height="715" alt="data_analysis_results png 1" src="https://github.com/user-attachments/assets/482a8f93-66c1-474e-9888-c6f7f48b6b1f" />
+
